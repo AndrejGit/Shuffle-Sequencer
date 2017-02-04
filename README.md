@@ -1,2 +1,2 @@
 # Shuffle-Sequencer
-Max Drum Synth
+4 FM Drum voices for 16-step sequencer.
